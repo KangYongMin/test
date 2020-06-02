@@ -51,7 +51,7 @@ void loop() {
   lcd.print("    ");
   lcd.setCursor(2,3);
   lcd.print(distance);
-  lcd.print(" mcm   ");
+  lcd.print(" cm    ");
 
 
 
